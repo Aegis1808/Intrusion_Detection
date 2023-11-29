@@ -11,7 +11,7 @@ However, commercial IDS in the market often struggles to identify novel attacks 
 false alarms for legitimate user activities. To address these issues and enhance accuracy, I have
 proposed an approach that integrates correlation-based feature selection (CFS) with a
 neural network for anomaly detection in IDS.
-My experimental analysis focuses on benchmark datasets of intrusion detection, namely
+\n My experimental analysis focuses on benchmark datasets of intrusion detection, namely
 NSL-KDD and UNSW-NB, which encompasses current attack scenarios. The results
 demonstrate that my proposed model outperforms several techniques in 
 terms of accuracy, sensitivity, and specificity. By leveraging neural networks and
@@ -22,7 +22,7 @@ securing Internet of Things (IoT) servers in the future. This would contribute t
 establishment of robust security measures for wireless payment systems and enable secure
 integrated network management, leading to error-free operations and improved
 performance.
-In conclusion, my study showcases the efficacy of integrating correlation-based feature
+\n In conclusion, my study showcases the efficacy of integrating correlation-based feature
 selection with neural networks for enhancing anomaly detection in intrusion detection
 systems. The proposed model exhibits superior performance compared to existing
 techniques, offering promising prospects for securing computer networks and IoT
